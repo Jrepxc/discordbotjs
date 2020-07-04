@@ -167,6 +167,6 @@ bot.on('message', async message=>{
 	}
 })
 
-bot.login('NzE3NDkyMDgwNzk2MTA2OTI0.Xteoyg.TE6POPHv1paUvT_vekkvge8F21M')
+bot.login('redacted.Xteoyg.TE6POPHv1paUvT_vekkvge8F21M')
 //bot.login(process.env.BOT_TOKEN);
 
