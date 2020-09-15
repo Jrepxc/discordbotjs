@@ -46,7 +46,7 @@ bot.on('message', async message=>{
 		break;
 
 		case 'info':
-			message.channel.send('Iron Nexus Bot- v0.01 *beta*')
+			message.channel.send('Bot- v0.01 *beta*')
 		break;
 		case 'massdelete':
 			var member = message.member;
@@ -161,12 +161,10 @@ bot.on('message', async message=>{
 
 
 
-//        case 'fixxcc':
-//            let roley = message.guild.roles.cache.find(role => role.name === "xcc");
-//            message.member.roles.add(roley);
+//   
 	}
 })
 
-bot.login('redacted.Xteoyg.TE6POPHv1paUvT_vekkvge8F21M')
+bot.login('redacted')
 //bot.login(process.env.BOT_TOKEN);
 
